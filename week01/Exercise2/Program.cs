@@ -4,8 +4,11 @@ class Program
 {
     static void Main(string[] args)
     {
+        Console.WriteLine("Hello world! look at my Exercise2 project.");
+
         Console.WriteLine("what is your grade percentage? ");
-        int percentage = int.Parse(Console.ReadLine());
+        string answer = console.ReadLine();
+        int percentage = int.Parse(answer);
         string letter = "";
 
 

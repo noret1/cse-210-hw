@@ -4,6 +4,8 @@ class Program
 {
     static void Main(string[] args)
     {
+        Console.WriteLine("Hello World! look at my Exercise5 Project");
+        
         DisplayWelcome();
 
         string userName = PromptUserName();
