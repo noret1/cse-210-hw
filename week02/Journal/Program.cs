@@ -14,7 +14,7 @@ class Program
         Journal journal = new Journal();
         PromptGenerator promptGen = new PromptGenerator();
         bool running = true;
-        
+
         //Ask the user for the option
 
         while (running)
