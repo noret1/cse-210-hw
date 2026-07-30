@@ -5,6 +5,7 @@ class Program
 {
     static void Main(string[] args)
     {
+        
         var video1 = new Video("Learning C#", "Nabukenya Phiona", 300);
         var video2 = new Video("Intro to OOP", "Nalwoga Sylivia", 450);
         var video3 = new Video("Advanced C# Techniques", "Tamara Phylicia", 600);
